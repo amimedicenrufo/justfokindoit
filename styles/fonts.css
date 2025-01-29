@@ -1,0 +1,219 @@
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Beleren:wght@400;500;700&display=swap");
+
+/* Fuentes personalizadas */
+@font-face {
+  font-family: "Beleren2";
+  src: url("/fonts/Beleren2016-Bold.woff2") format("woff2"),
+    url("/fonts/Beleren2016-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Matrix";
+  src: url("/fonts/Matrix-Bold.woff2") format("woff2"),
+    url("/fonts/Matrix-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Plantin";
+  src: url("/fonts/Plantin-Bold.woff2") format("woff2"),
+    url("/fonts/Plantin-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Thunder Font - Black */
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-BlackHC.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-BlackHCItalic.woff2") format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-BlackLC.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  text-transform: lowercase;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-BlackLCItalic.woff2") format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  text-transform: lowercase;
+  font-display: swap;
+}
+
+/* Thunder Font - Bold */
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-BoldHC.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-BoldHCItalic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-BoldLC.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+  text-transform: lowercase;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-BoldLCItalic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+  text-transform: lowercase;
+  font-display: swap;
+}
+
+/* Thunder Font - ExtraBold */
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-ExtraBoldHC.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-ExtraBoldHCItalic.woff2") format("woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Thunder Font - ExtraLight */
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-ExtraLightHC.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-ExtraLightHCItalic.woff2") format("woff2");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Thunder Font - Light */
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-LightHC.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-LightHCItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Thunder Font - Medium */
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-MediumHC.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-MediumHCItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Thunder Font - SemiBold */
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-SemiBoldHC.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-SemiBoldHCItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Thunder Font - Thin */
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-ThinHC.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-ThinHCItalic.woff2") format("woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Thunder Font - Regular */
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-HC.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("/fonts/Thunder-HCItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}

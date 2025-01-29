@@ -90,3 +90,22 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+@font-face {
+  font-family: "Thunder-ThinItalic";
+  src: url("/fonts/Thunder-ThinItalic.woff2") format("woff2");
+}
+
+.dropdown-menu {
+  @apply absolute z-50 mt-2 w-48 rounded-md bg-gray-700 shadow-lg;
+  transform-origin: top;
+  transition: transform 0.2s ease-out;
+}
+
+.dropdown-menu.hidden {
+  transform: scaleY(0);
+}
+
+.dropdown-menu.visible {
+  transform: scaleY(1);
+}
